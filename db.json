@@ -1,0 +1,70 @@
+{
+    "Plant": [
+      {
+        "id": 1,
+        "nama":"Hibiscus rosa-sinensis L",
+        "title": "Bunga Sepatu",
+        "familia": "Malvaceae",
+        "desc": "Tanaman hias yang biasanya tumbuh di dataran rendah sampai pegunungan yang berasal dari Asia Timur"
+      },
+      {
+        "id": 2,
+        "nama":"Rosa canina",
+        "title": "Bunga Mawar",
+        "familia": "Rosaceae",
+        "desc": "Mawar adalah suatu jenis tanaman semak dari genus Rosa sekaligus nama bunga yang dihasilkan tanaman ini."
+      },
+      {
+        "id": 3,
+        "nama":"Mangifera indica L.",
+        "title": "Mangga Godong Gincu",
+        "familia": "Anacardiaceae",
+        "desc": "Mangga berasal dari daerah di sekitar perbatasan India dengan Burma, dan mangga telah menyebar ke Asia Tenggara sekurang-kurangnya semenjak 1500 tahun yang silam."
+      },
+      {
+        "id": 4,
+        "nama":"Syzygium aqueum",
+        "title": "Jambu Air",
+        "familia": "Myrtaceae",
+        "desc": "Jambu air adalah tumbuhan dalam suku jambu-jambuan atau Myrtaceae yang berasal dari Asia Tenggara."
+      }
+    ],
+    "Animal": [
+      {
+        "id": 1,
+        "nama":"Elephas maximus",
+        "title": "Gajah Asia",
+        "familia": "Elephantidae",
+        "desc": "Gajah tersebar di seluruh Afrika sub-Sahara, Asia Selatan, dan Asia Tenggara."
+      },
+      {
+        "id": 2,
+        "nama":"Panthera tigris",
+        "title": "Harimau",
+        "familia": "Felidae",
+        "desc": "Harimau adalah jenis kucing terbesar dari spesiesnya, bahkan lebih besar dari singa."
+      },
+      {
+        "id": 3,
+        "nama":"Tomistoma schlegelii",
+        "title": "Buaya",
+        "familia": "Crocodyloidea",
+        "desc": "Buaya adalah reptil bertubuh besar yang hidup di air. "
+      },
+      {
+        "id": 4,
+        "nama":"Bos primigenius",
+        "title": "Sapi",
+        "familia": "Bovidae",
+        "desc": "Sapi yang telah dikebiri dan biasanya digunakan untuk membajak sawah dinamakan lembu."
+      },
+      {
+        "id": 5,
+        "nama":"Felis silvestris catus",
+        "title": "Kucing",
+        "familia": "Felidae",
+        "desc": "Kucing telah berbaur dengan kehidupan manusia paling tidak sejak 6.000 tahun SM, dari kerangka kucing di Pulau Siprus"
+      }
+    ]
+  }
+  
